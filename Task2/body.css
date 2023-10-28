@@ -1,0 +1,29 @@
+body
+{
+   background-image: image('maxresdefault.jpg');
+}
+#aDiv
+{
+    width: 300px; 
+    height: 300px; 
+    margin: 0 auto;
+}
+h1
+{
+    color : #000000;
+    text-align : center;
+    font-family: "SIMPSON";
+}
+form
+{
+    align:"center";
+}
+table{
+    color: rgb(182, 34, 34);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    
+}
+#imgBx{
+    align-items: center;
+}
